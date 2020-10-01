@@ -9,7 +9,7 @@ function App() {
       <Header title="News Searcher"/>
 
       <div className="container white">
-        <Form />
+        <Form />  
       </div>
     </Fragment>
   );
